@@ -1,0 +1,3 @@
+Degree of polynomial (m): 2
+Roots in base 10: 4,7,12,39
+Constant term (c): 336
